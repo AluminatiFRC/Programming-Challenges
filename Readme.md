@@ -6,7 +6,7 @@ This project will be updated with more challenges as time goes on.
 This project is hosted on GitHub, a popular place for programmers to put their code online. GitHub uses a version control system called git. Git manages different versions of the code for the programmer, and works very well for teams of programmers. 
 
 ##Downloading
-1. Click on the "Download Zip" button right below the colored bar on the right side of the page. 
+1. Click on the "Download Zip" button on the right side of the page right below the colored bar. 
 2. Open eclipse and select "File > Import..." to open the import wizard. 
 3. Under the general category, select "Existing Projects into Workspace". 
 4. Click on "Select Archive File" and then click "Browse" and navigate to the zip folder you just downloaded. It's probably called something like "Programming-Challenges-master.zip". Chances are that it's in your downloads folder. 
