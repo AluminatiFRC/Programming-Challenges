@@ -9,9 +9,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		//Change MinMax to something else to run those tests.
-		MinMax minMax = new MinMax();
-		minMax.test();
-		
+//		MinMax minMax = new MinMax();
+//		minMax.test();		
 		//Here's how you might run tests from AbsoluteValue
 //		AbsoluteValue absoluteValue = new AbsoluteValue();
 //		absoluteValue.test();
