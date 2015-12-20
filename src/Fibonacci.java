@@ -30,7 +30,7 @@ public class Fibonacci {
 	 * Sequence: 1, 1, 2, 3, 5, 8, 13, 21, 34...
 	 * </pre>
 	 */
-	public static int fibonacci(int n){
+	public int fibonacci(int n){
 		return 0;
 	}
 }

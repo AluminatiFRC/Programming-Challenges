@@ -29,7 +29,7 @@ public class Prime {
 	 * divided evenly by one and itself. One is not a prime number. Negative 
 	 * numbers cannot be prime.
 	 */
-	public static boolean isPrime(int number){
+	public boolean isPrime(int number){
 		return false;
 	}
 }

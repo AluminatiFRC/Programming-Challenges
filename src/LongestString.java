@@ -21,7 +21,7 @@ public class LongestString {
 	 * Return the longer of two input strings. If both strings are the same length,
 	 * the first string (a) should be returned.
 	 */
-	public static String longestString(String a, String b){
+	public String longestString(String a, String b){
 		return "";
 	}
 }

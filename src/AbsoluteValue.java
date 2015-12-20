@@ -23,7 +23,7 @@ public class AbsoluteValue {
 	 * Returns the absolute value of the number given. The return value should never
 	 * be negative.
 	 */
-	public static int abs(int number){
+	public int abs(int number){
 		return 0;
 	}
 }

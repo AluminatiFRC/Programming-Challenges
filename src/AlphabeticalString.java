@@ -28,7 +28,7 @@ public class AlphabeticalString {
 	 */	
 	//Hint: use char to complete this challenge. You will need to compare them
 	//using > or <
-	public static String alphabeticalString(String a, String b){
+	public String alphabeticalString(String a, String b){
 		return "";
 	}
 }

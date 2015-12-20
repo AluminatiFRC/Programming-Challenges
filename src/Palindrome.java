@@ -25,7 +25,7 @@ public class Palindrome {
 	 * This function only accounts for strings that are entirely lowercase 
 	 * letters.
 	 */
-	public static boolean isPalendrome(String word){
+	public boolean isPalendrome(String word){
 		return false;
 	}
 }

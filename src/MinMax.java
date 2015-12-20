@@ -1,4 +1,4 @@
-class MinMax {
+public class MinMax {
 	/**
 	 * Run tests on the methods we wrote.
 	 */

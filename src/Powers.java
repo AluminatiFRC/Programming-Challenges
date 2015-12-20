@@ -25,7 +25,7 @@ public class Powers {
 	 * Returns the base raised to the integer power of the exponent. If the exponent 
 	 * argument is negative, the result willbe 0.
 	 */
-	public static int pow(int base, int exponent){
+	public int pow(int base, int exponent){
 		return 0;
 	}
 }

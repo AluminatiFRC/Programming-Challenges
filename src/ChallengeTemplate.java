@@ -28,7 +28,7 @@ public class ChallengeTemplate {
 	/**
 	 *
 	 */
-	public static int challenge(){
+	public int challenge(){
 		return 0;
 	}
 }
