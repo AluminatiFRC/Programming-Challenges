@@ -29,4 +29,4 @@ Here are the challenges in a rough order of difficulty, but feel free to do them
 * `AlphebeticalString`
 
 ###Running the Challenges
-The main class is the entry point for this project. You will need to edit it to change what challenge gets run when you press the run button. 
+The `Main` class is the entry point for this project. You will need to edit it to change what challenge gets run when you press the run button. It is located in the `Main.java` file.
