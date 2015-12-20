@@ -6,6 +6,7 @@ public class AlphabeticalString {
 	public void test(){
 		//It's a good idea to add more tests.
 		//Feel free to change the way the tests are performed.
+		System.out.println("Testing AlphebeticalString");
 		String result;
 		
 		result = alphabeticalString("apples","bannanas");

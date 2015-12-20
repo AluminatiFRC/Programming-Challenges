@@ -6,6 +6,7 @@ public class Palindrome {
 	public void test(){
 		//It's a good idea to add more tests.
 		//Feel free to change the way the tests are performed.
+		System.out.println("Testing Palendrome");
 		boolean result;
 		
 		result = isPalendrome("racecar");

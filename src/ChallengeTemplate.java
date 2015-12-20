@@ -15,6 +15,7 @@ public class ChallengeTemplate {
 	public void test(){
 		//It's a good idea to add more tests.
 		//Feel free to change the way the tests are performed.
+		System.out.println("Testing ");
 		int result;
 		
 		result = challenge();

@@ -23,6 +23,7 @@ Here are the challenges in a rough order of difficulty, but feel free to do them
 * `LongestString`
 * `Powers`
 * `Prime`
+* `ArraySum`
 * `Fibonacci`
 * `Palindrome`
 * `AlphebeticalString`
