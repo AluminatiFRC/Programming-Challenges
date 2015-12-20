@@ -10,7 +10,7 @@
  */
 public class ChallengeTemplate {
 	/**
-	 * Run tests on the methods we wrote.
+	 * Run tests on the method we wrote.
 	 */
 	public void test(){
 		//It's a good idea to add more tests.
@@ -22,7 +22,7 @@ public class ChallengeTemplate {
 	}
 	
 	
-	//Complete the following methods
+	//Complete the following method
 	//I've given them a value to return by default, it will need to change.
 	
 	/**
